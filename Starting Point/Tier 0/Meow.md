@@ -5,7 +5,7 @@ Server running telnet with common username "root" having a blank password
 ---
 
 ### Scanning
-Scan for open ports \
+Service detection on open ports  \
 `nmap -sV IP`
 >23/tcp open  telnet  Linux telnetd
 
